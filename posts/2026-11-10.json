@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "status": "drafted",
+  "status": "approved",
   "posts": [
     {
       "slot": "am",
@@ -16,7 +16,8 @@
         "source": "U.S. EPA, 2025"
       },
       "caption": "$2,913.00 a year. That's how much food goes uneaten in a household of four, according to the EPA. About $56.00 every week.\n\nOften it's food we simply forgot we had. StashSmart keeps track for you, so more of what you buy gets eaten. 💰\n\nComing soon on iPhone. Follow along for launch news.\n\n#stashsmart #foodwaste #savemoney #grocerybudget #pantry #mealplanning #familybudget #zerowaste",
-      "source_note": "U.S. EPA, Estimating the Cost of Food Waste to American Consumers (2025): $728 per person, $2,913 per household of four per year, about $56 per week."
+      "source_note": "U.S. EPA, Estimating the Cost of Food Waste to American Consumers (2025): $728 per person, $2,913 per household of four per year, about $56 per week.",
+      "status": "approved"
     },
     {
       "slot": "pm",
@@ -30,7 +31,8 @@
         "body": "See what's at home and how many days it's good for, before you buy it twice.",
         "tip": "Know what you have. Buy what you need."
       },
-      "caption": "Standing in the aisle, holding eggs, trying to picture your fridge.\n\nWith StashSmart, type \"eggs\" and you'll see: 6 at home, good for 9 more days. Put the carton back and keep moving. 🧊\n\nKnow what you have. Buy what you need. Coming soon on iPhone.\n\n#stashsmart #groceryshopping #pantry #kitchenhacks #savemoney #foodwaste #organizedhome #grocerylist"
+      "caption": "Standing in the aisle, holding eggs, trying to picture your fridge.\n\nWith StashSmart, type \"eggs\" and you'll see: 6 at home, good for 9 more days. Put the carton back and keep moving. 🧊\n\nKnow what you have. Buy what you need. Coming soon on iPhone.\n\n#stashsmart #groceryshopping #pantry #kitchenhacks #savemoney #foodwaste #organizedhome #grocerylist",
+      "status": "approved"
     }
   ]
 }
