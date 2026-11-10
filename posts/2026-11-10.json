@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "status": "approved",
+  "status": "posted",
   "posts": [
     {
       "slot": "am",
@@ -38,7 +38,13 @@
         "tip": "Know what you have. Buy what you need."
       },
       "caption": "Standing in the aisle, holding eggs, trying to picture your fridge.\n\nWith StashSmart, type \"eggs\" and you'll see: 6 at home, good for 9 more days. Put the carton back and keep moving. 🧊\n\nKnow what you have. Buy what you need. Coming soon on iPhone.\n\n#stashsmart #groceryshopping #pantry #kitchenhacks #savemoney #foodwaste #organizedhome #grocerylist",
-      "status": "approved"
+      "status": "posted",
+      "posted_at": "2026-11-10T15:01:00-08:00",
+      "post_ids": {
+        "instagram": "18572856538079112",
+        "facebook": "1343390778863435_122119374993502219",
+        "facebook_photo": "122119374963502219"
+      }
     }
   ]
 }
