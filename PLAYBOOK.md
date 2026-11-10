@@ -21,19 +21,36 @@ The daily scheduled task follows this file. Edit it to change how posts are writ
 - Pricing: 30-day free trial, then $2.99/month Individual or $3.99/month Family.
 - Status: PRE-LAUNCH (iPhone first). Never say it's available now, never give a launch date, never invent download numbers, reviews, testimonials or user quotes. CTAs: follow, share, comment, tag a friend, "coming soon".
 
+## Brand (StashSmart Brand Guidelines, Edition 02, Nov 2026)
+- Brand line: "Smart shopping made easy." App tagline: "Know what you have. Buy what you need." Promise: "StashSmart gets smarter every time you shop."
+- Personality: practical, thrifty, quietly smart. Like a helpful note on the fridge.
+- Name: always "StashSmart", one word (never "Stash Smart", "Stashsmart", "STASHSMART" in running text). App areas: Pantry, List, Meals, Wallet. Plans: Individual and Family. Say "members", not "users". Phrases: "Stock your kitchen", "Do I have this?", "What's for dinner?".
+- Colors: Paper #F3F2F2 and Receipt Ink #201E1D for most of every post; Aisle Cyan #0088B0 (Cyan 700 #006786 for text, Cyan 900 #0A303E for dark grounds). Deal Marigold #F2B705 (text #8A6400) ONLY for money saved/wasted or something running out, at most one marigold accent per post. Never white text on marigold.
+- Type: Source Serif 4 only. Headlines Semibold, body Regular, tips and "Smart" in Italic. No second typeface.
+- Logo: icon tile + wordmark, "Stash" Semibold roman + "Smart" Regular italic in cyan (Cyan 200 on dark). Never stretch, outline or add effects. The icon is brand/app-icon-512.png, unchanged.
+- Social backgrounds: Paper (`paper` style) or Cyan 900 to 500 feature gradient (`cyan` style). Mostly Paper.
+
+## Voice rules (apply to captions AND image text)
+- Short, specific, done. Lead with the number. Second person, present tense.
+- NO exclamation marks, anywhere.
+- Sentence case. Always show cents: $1.00, $2.99/month, $2,913.00.
+- Emoji: at most one per line, only as a signpost, from this set: 🔥 🙌 💰 🍗 🥛 🧊 🥫. Never inside prices.
+- Pricing wording: "1 month free, then $2.99/month. Family: $3.99/month for up to 4 people."
+- Not hype ("Amazing savings!!", "You're a superstar"). Not guilt ("Oops, did you waste food?").
+
 ## Content
-- Tone: positive, warm, upbeat, family-friendly. Never preachy or guilt-tripping.
+- Tone: positive and encouraging, within the voice rules above.
 - Rotate three pillars so each day has two different ones:
   1. **Food-waste facts**: compelling, true stats. Look each one up on a reputable source (U.S. EPA, USDA, ReFED, FAO, NRDC, WRAP, peer-reviewed research) and name the source on the image and in `source_note`. Never reuse a stat already in `posts/`.
   2. **What StashSmart helps you do**: one feature or benefit per post, framed as an outcome (save money, less stress, less waste, family on the same page).
   3. **Attention-grabbing hooks**: relatable questions, "be honest" moments, polls, myth vs. fact, quick tips, "tag someone who...".
-- Captions: 40 to 120 words, a hook in the first line, 1 to 3 emoji, a soft CTA, then 6 to 10 hashtags (always include #stashsmart). The same caption goes to both platforms.
+- Captions: 40 to 120 words, a hook (ideally a number) in the first line, at most one emoji per line, a soft CTA, then 6 to 10 hashtags (always include #stashsmart). The same caption goes to both platforms.
 - Image headline under ~14 words; body under ~25 words.
 - Before writing, read the last 14 days of `posts/*.json` and do not repeat an angle, stat, headline or opening line.
 
 ## Images
 - Render with `python3 scripts/make_image.py spec.json images/<date>/<slot>.jpg`.
-- Styles: `fact` (green), `feature` (cream), `hook` (orange). Fonts are in `fonts/`.
+- Styles: `paper` (default; facts and hooks) and `cyan` (feature posts). Use `highlight` (marigold) only for a money or running-out figure. Fonts are in `fonts/`, icon in `brand/`.
 - Always look at each rendered image before sending it for approval, and fix any text that's cut off or overlapping.
 
 ## Files

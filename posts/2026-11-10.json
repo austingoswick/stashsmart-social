@@ -7,17 +7,30 @@
       "time": "08:00",
       "pillar": "food-waste fact",
       "image": "images/2026-11-10/am.jpg",
-      "image_spec": {"style": "fact", "kicker": "Did you know?", "headline": "A family of four tosses about $2,913 of food every year.", "body": "That's roughly $56 a week. Imagine what you could do with it instead.", "source": "U.S. EPA, 2025"},
-      "caption": "Here's a number worth knowing: the EPA estimates a family of four spends about $2,913 a year on food that never gets eaten. That's around $56 every single week. 💸\n\nThe good news? Most of it is avoidable, and small habits add up fast. We're building StashSmart to make those habits effortless.\n\nFollow along so you're first to know when we launch. 💚\n\n#foodwaste #savemoney #groceryhacks #pantryorganization #mealplanning #familybudget #zerowaste #stashsmart",
-      "source_note": "U.S. EPA, Estimating the Cost of Food Waste to American Consumers (2025): $728 per person, $2,913 per household of four per year."
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Did you know",
+        "highlight": "$2,913.00",
+        "headline": "of food goes uneaten in a household of four each year.",
+        "body": "That's about $56.00 a week. StashSmart helps you use what you buy.",
+        "source": "U.S. EPA, 2025"
+      },
+      "caption": "$2,913.00 a year. That's how much food goes uneaten in a household of four, according to the EPA. About $56.00 every week.\n\nOften it's food we simply forgot we had. StashSmart keeps track for you, so more of what you buy gets eaten. 💰\n\nComing soon on iPhone. Follow along for launch news.\n\n#stashsmart #foodwaste #savemoney #grocerybudget #pantry #mealplanning #familybudget #zerowaste",
+      "source_note": "U.S. EPA, Estimating the Cost of Food Waste to American Consumers (2025): $728 per person, $2,913 per household of four per year, about $56 per week."
     },
     {
       "slot": "pm",
       "time": "15:00",
       "pillar": "what the app helps you do",
       "image": "images/2026-11-10/pm.jpg",
-      "image_spec": {"style": "feature", "kicker": "Coming soon", "headline": "Know what's in your kitchen before you hit the store.", "body": "StashSmart tracks your pantry and nudges you 48 hours before food expires, so less gets tossed and more gets eaten."},
-      "caption": "Ever stood in the grocery aisle wondering, \"Do I already have this at home?\" 🤔\n\nStashSmart keeps track of your pantry for you and sends a friendly heads-up 48 hours before something expires. Less guessing, less tossing, more eating what you already paid for.\n\nComing soon. Tap follow so you don't miss launch day! 🛒✨\n\n#stashsmart #groceryshopping #pantrygoals #kitchenhacks #foodwaste #organizedhome #momlife #smartliving"
+      "image_spec": {
+        "style": "cyan",
+        "kicker": "Do I have this?",
+        "headline": "Check your pantry from the aisle.",
+        "body": "See what's at home and how many days it's good for, before you buy it twice.",
+        "tip": "Know what you have. Buy what you need."
+      },
+      "caption": "Standing in the aisle, holding eggs, trying to picture your fridge.\n\nWith StashSmart, type \"eggs\" and you'll see: 6 at home, good for 9 more days. Put the carton back and keep moving. 🧊\n\nKnow what you have. Buy what you need. Coming soon on iPhone.\n\n#stashsmart #groceryshopping #pantry #kitchenhacks #savemoney #foodwaste #organizedhome #grocerylist"
     }
   ]
 }
