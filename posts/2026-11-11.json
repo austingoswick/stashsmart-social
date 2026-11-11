@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "status": "approved",
+  "status": "posted",
   "posts": [
     {
       "slot": "am",
@@ -38,7 +38,13 @@
       },
       "caption": "About 20% of the food we throw out at home goes because of date labels, according to the FDA.\n\nHere's the part most of us were never told. \"Best if used by\" is about when food tastes its best, not when it stops being safe. The FDA has been nudging food makers toward that one phrase so it's less confusing.\n\nWe all do the sniff test on the yogurt anyway. StashSmart will give you a heads-up 48 hours before something at home is about to turn, so you can use it first. 🥛\n\nComing soon on iPhone. Follow along.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
       "source_note": "U.S. FDA, FDA Voices: \"Working with the Food Industry to Reduce Confusion Over Date Labels\" (Sharpless & Yiannas, 2019): date-label confusion accounts for about 20 percent of food waste in the home; \"Best if Used By\" is about quality, not safety. https://www.fda.gov/news-events/fda-voices-perspectives-fda-leadership-and-experts/working-food-industry-reduce-confusion-over-date-labels",
-      "status": "approved"
+      "status": "posted",
+      "posted_at": "2026-11-11T15:01:00-08:00",
+      "post_ids": {
+        "instagram": "18125105921293349",
+        "facebook": "1343390778863435_122119663725502219",
+        "facebook_photo": "122119663689502219"
+      }
     }
   ]
 }
