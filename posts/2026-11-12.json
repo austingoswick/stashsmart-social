@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "status": "drafted",
+  "status": "approved",
   "posts": [
     {
       "slot": "am",
@@ -16,7 +16,7 @@
       },
       "caption": "It's 5:30. Someone asks what's for dinner. Everyone looks at you.\n\nWe're building Meals in StashSmart for exactly that moment. Find a recipe on Sunday, save it to Thursday, and when Thursday shows up it's just there, waiting. On the Family plan, up to 4 people at home can see the week's dinners, so that question gets asked a lot less. 🍗\n\nWhat's on your table this week? Tell us in the comments. Coming soon on iPhone.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
       "source_note": null,
-      "status": "drafted"
+      "status": "approved"
     },
     {
       "slot": "pm",
@@ -32,7 +32,7 @@
       },
       "caption": "Quick poll. What's the one thing you always forget at the store?\n\nFor one of us it's milk. Every time. Full cart, long line, drive home, open the fridge, and there it isn't.\n\nThat's a big reason StashSmart has a List you can add to the second you notice you're out, and on the Family plan everyone at home adds to the same one. 🥛\n\nDrop yours in the comments. We're reading every one.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
       "source_note": null,
-      "status": "drafted"
+      "status": "approved"
     }
   ]
 }
