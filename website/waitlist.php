@@ -2,7 +2,7 @@
 // StashSmart waitlist sign-ups.
 // Saves each email to a CSV file OUTSIDE public_html (so nobody can download it from the web)
 // and emails a notice to info@stashsmart.app.
-// File location on the server: <home folder>/waitlist-data/waitlist.csv
+// File location on the server: <hosting home folder>/waitlist-data/waitlist.csv (next to public_html, not inside it)
 
 header('Content-Type: application/json');
 header('X-Content-Type-Options: nosniff');
@@ -22,8 +22,12 @@ $email = strtolower(trim($_POST['email'] ?? ''));
 $source = preg_replace('/[^a-z0-9_-]/i', '', $_POST['source'] ?? '');
 if (strlen($email) > 254 || !filter_var($email, FILTER_VALIDATE_EMAIL)) reply(400, 'invalid');
 
-$dir = dirname($_SERVER['DOCUMENT_ROOT']) . '/waitlist-data';
+// Keep the file in the hosting home folder, above public_html, so it can never be downloaded.
+$root = $_SERVER['DOCUMENT_ROOT'];
+$home = (strpos($root, '/public_html') !== false) ? substr($root, 0, strpos($root, '/public_html')) : dirname($root);
+$dir = $home . '/waitlist-data';
 if (!is_dir($dir) && !mkdir($dir, 0700, true)) reply(500, 'error');
+if (!file_exists($dir . '/.htaccess')) @file_put_contents($dir . '/.htaccess', "Require all denied\n");
 $file = $dir . '/waitlist.csv';
 
 $fh = fopen($file, 'c+');
