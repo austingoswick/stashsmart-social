@@ -8,7 +8,7 @@ The live site is `website/index.html`. GoDaddy copies it to public_html every ho
    - a short "Kitchen tip" or food-waste fact (with a named reputable source) in the Why section,
    - a "Lately on Instagram" line or card linking to a recent well-performing post (use INSIGHTS.md and posts/*.json),
    - a seasonal note (holidays, back to school, summer grilling) in the hero sub-line.
-   Keep the page's structure, layout and scripts. Change only the text or small blocks you need. Never remove the waitlist forms.
+   Keep the page's structure, layout and scripts. Change only the text or small blocks you need. Never remove the waitlist forms or change how they post to /waitlist.php.
 3. Never invent stats, reviews, testimonials, download counts or a launch date.
 4. Keep the file self-contained (one HTML file, no new external scripts).
 

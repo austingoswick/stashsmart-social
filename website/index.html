@@ -281,6 +281,7 @@ footer small { color: var(--ink-soft); font-size: 0.85rem; }
         <form class="waitlist" data-form="hero" novalidate>
           <label for="email-hero" class="caption" style="position:absolute;left:-9999px">Email address</label>
           <input id="email-hero" name="email" type="email" inputmode="email" autocomplete="email" placeholder="you@email.com" required>
+          <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
           <button class="btn" type="submit">Join the waitlist</button>
         </form>
         <p class="form-note" data-note="hero">One email when we launch. No spam.</p>
@@ -441,6 +442,7 @@ footer small { color: var(--ink-soft); font-size: 0.85rem; }
         <form class="waitlist" data-form="band" novalidate>
           <label for="email-band" class="caption" style="position:absolute;left:-9999px">Email address</label>
           <input id="email-band" name="email" type="email" inputmode="email" autocomplete="email" placeholder="you@email.com" required>
+          <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
           <button class="btn" type="submit">Join the waitlist</button>
         </form>
         <p class="form-note" data-note="band">Free to join. Unsubscribe any time.</p>
@@ -473,16 +475,16 @@ footer small { color: var(--ink-soft); font-size: 0.85rem; }
   }
 
   async function save(email, source) {
-    const [db, user] = await Promise.all([getDb(), getUser()]);
-    if (!db || !user || readOnly) return 'preview';
-    const id = await user.id();
-    if (!id) return 'preview';
+    const hp = document.querySelector('form.waitlist[data-form="' + source + '"] input[name="website"]');
+    const body = new URLSearchParams({ email, source, website: hp ? hp.value : '' });
     try {
-      await db.doc('waitlist/' + id).set({ email, source, joinedAt: new Date().toISOString() });
-      return 'saved';
+      const res = await fetch('/waitlist.php', { method: 'POST', body });
+      const data = await res.json().catch(() => ({}));
+      if (res.ok && data.status === 'ok') return 'saved';
+      if (data.status === 'invalid') return 'invalid';
+      return 'error';
     } catch (e) {
-      if (e && e.code === 'invalid_argument') readOnly = true;
-      return 'preview';
+      return 'error';
     }
   }
 
@@ -500,8 +502,10 @@ footer small { color: var(--ink-soft); font-size: 0.85rem; }
       if (result === 'saved') {
         document.querySelectorAll('form.waitlist input').forEach(i => i.value = '');
         note(name, "You're on the list. We'll email " + email + ' when StashSmart launches.', 'ok');
+      } else if (result === 'invalid') {
+        note(name, 'Enter an email address like name@example.com.', 'err'); input.focus();
       } else {
-        note(name, "This preview can't save sign-ups for you. The waitlist opens on the live site.", 'err');
+        note(name, "That didn't go through. Please try again in a minute.", 'err');
       }
     });
   });
