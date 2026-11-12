@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "status": "approved",
+  "status": "posted",
   "posts": [
     {
       "slot": "am",
@@ -37,7 +37,12 @@
       },
       "caption": "Quick poll. What's the one thing you always forget at the store?\n\nFor one of us it's milk. Every time. Full cart, long line, drive home, open the fridge, and there it isn't.\n\nThat's a big reason StashSmart has a List you can add to the second you notice you're out, and on the Family plan everyone at home adds to the same one. 🥛\n\nDrop yours in the comments. We're reading every one.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
       "source_note": null,
-      "status": "approved"
+      "status": "posted",
+      "posted_ids": {
+        "instagram": "18054775901821798",
+        "facebook": "1343390778863435_122119956393502219",
+        "facebook_photo": "122119956369502219"
+      }
     }
   ]
 }
