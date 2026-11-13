@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "status": "approved",
+  "status": "posted",
   "posts": [
     {
       "slot": "am",
@@ -39,7 +39,13 @@
       },
       "caption": "The line behind you is growing, and the cashier asks if you have the store card. You do. Somewhere. Probably on the keychain you left in the car.\n\nWe're putting every loyalty card and coupon in one spot in StashSmart, called Wallet. Your receipts land there too, so the one you need for a return isn't at the bottom of a grocery bag. 💰\n\nHow many store cards are you carrying right now? Tell us below. Coming soon on iPhone.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
       "source_note": null,
-      "status": "approved"
+      "status": "posted",
+      "posted_at": "2026-11-13T15:01:00-08:00",
+      "post_ids": {
+        "instagram": "17958394875266433",
+        "facebook": "1343390778863435_122120271543502219",
+        "facebook_photo": "122120271519502219"
+      }
     }
   ]
 }
