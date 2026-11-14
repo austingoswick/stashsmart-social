@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-14",
+  "status": "drafted",
+  "posts": [
+    {
+      "slot": "am",
+      "time": "08:00",
+      "pillar": "food-waste fact",
+      "image": "images/2026-11-14/am.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Good news",
+        "headline": "U.S. households wasted nearly 950,000 fewer tons of food in one year.",
+        "body": "The first national drop since the pandemic. Pricier groceries and more meal planning helped.",
+        "tip": "Small habits add up.",
+        "source": "ReFED, 2026"
+      },
+      "caption": "Some good news for your Saturday. American households wasted nearly 950,000 fewer tons of food in 2024 than the year before, according to ReFED. It's the first national drop since the pandemic.\n\nPeople bought about the same amount of food and just threw less of it out. Pricier groceries and more meal planning likely had a lot to do with it.\n\nSo if you've been eating the leftovers and checking the fridge before you shop, it's adding up. 🙌\n\nWhat's one habit that's helped you waste less? Tell us in the comments.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "ReFED, Progress on the Plate: 2026 ReFED U.S. Food Waste Report (2024 data): residential food waste fell by nearly 950,000 tons; total U.S. surplus food fell 2.2% to 70 million tons, the first year-over-year decline since the pandemic; households bought about the same but wasted less, likely due to high grocery prices and more meal planning. https://refed.org/articles/new-report-nationwide-reduction-in-food-waste-driven-by-households/ (also The Packer and Agri-Pulse coverage)",
+      "status": "drafted"
+    },
+    {
+      "slot": "pm",
+      "time": "15:00",
+      "pillar": "attention-grabbing hook",
+      "image": "images/2026-11-14/pm.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Myth or fact",
+        "headline": "Frozen food goes bad after a few months.",
+        "body": "Myth. Kept at 0°F, food stays safe indefinitely. Time only costs it flavor and texture.",
+        "tip": "Date the bag anyway. Future-you will want to know.",
+        "source": "USDA FSIS"
+      },
+      "caption": "Myth or fact: frozen food goes bad after a few months.\n\nMyth. The USDA says food kept at 0°F stays safe indefinitely. What fades is quality. That chicken from March is still safe to eat, it just might be a little dry.\n\nMost of us have one mystery bag in there. No label. Could be chili, could be last winter. 🧊\n\nSo what's the oldest thing in your freezer right now? Tell us below. No judgment, we've all been there.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "USDA FSIS, Freezing and Food Safety: food stored constantly at 0°F is safe indefinitely; storage times are for quality only. https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/freezing-and-food-safety (confirmed via University of Nebraska-Lincoln Extension, citing USDA FSIS: https://food.unl.edu/frozen-meat-safety/)",
+      "status": "drafted"
+    }
+  ]
+}

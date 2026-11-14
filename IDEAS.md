@@ -10,7 +10,7 @@ Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and lefto
    - Angle: The good news. American homes are wasting less, and higher grocery prices are part of why. Positive, "you're already doing it" tone.
    - Headline: "Households cut food waste by nearly 950,000 tons in one year."
    - Source: ReFED, Progress on the Plate 2026 report (2024 data; first national decline since the pandemic, led by households). https://refed.org/articles/new-report-nationwide-reduction-in-food-waste-driven-by-households/
-   - Used:
+   - Used: 2026-11-14
 
 2. **Food-waste fact**
    - Angle: Seeing what you throw out changes it. Families who got a simple report on what they wasted cut waste by about a quarter. Ties to Pantry without a hard sell.
