@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-15",
+  "status": "drafted",
+  "posts": [
+    {
+      "slot": "am",
+      "time": "08:00",
+      "pillar": "attention-grabbing hook",
+      "image": "images/2026-11-15/am.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Your turn",
+        "headline": "Only 17% of shoppers would cut back on the holiday meal.",
+        "body": "46% would trim holiday clothing first. Where are you cutting back this year?",
+        "tip": "Some things stay on the table.",
+        "source": "FMI and The Hartman Group, 2026"
+      },
+      "caption": "Here's a number that made us smile. If money gets tight this season, only 17% of shoppers say they'd cut back on food for the holiday meal. Holiday clothing is the first thing to go, at 46%. That's from a new FMI and Hartman Group survey.\n\nMakes sense to us. Nobody remembers the sweater. They remember who was at the table and whether there was enough stuffing. 🍗\n\nSo where are you trimming this year, and what's staying no matter what? Tell us in the comments.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "FMI (The Food Industry Association) and The Hartman Group, U.S. Grocery Shopper Trends 2026: Holidays (1,467 U.S. grocery shoppers, online, Sept 21 to 28, 2026): 17% would cut back on food for holiday meals if needed vs. 46% on holiday clothing and 45% on shows and events. https://massmarketretailers.com/fmi-research-holiday-shoppers-put-family-meals-first-lean-on-grocery-loyalty-programs-to-save/ (also The Shelby Report, Nov 13, 2026)"
+    },
+    {
+      "slot": "pm",
+      "time": "15:00",
+      "pillar": "what the app helps you do",
+      "image": "images/2026-11-15/pm.jpg",
+      "image_spec": {
+        "style": "cyan",
+        "kicker": "List",
+        "headline": "One Thanksgiving list the whole house can add to.",
+        "body": "Up to 4 people share one List on the Family plan. Check what's at home first.",
+        "tip": "Do I have this?"
+      },
+      "caption": "The big Thanksgiving grocery trip is coming, and somehow the list always lives on one person's phone. Then someone texts \"do we need cranberries?\" from the aisle, and nobody knows.\n\nOn the Family plan in StashSmart, up to 4 people at home add to the same List. Your sister remembers the rolls. Your kid adds whipped cream. Twice. And before you grab the pumpkin, \"Do I have this?\" checks the pantry, so you don't come home to two cans. 🥫\n\nComing soon on iPhone. Follow along, and tag the person who always does the big shop.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": null
+    }
+  ]
+}

@@ -46,7 +46,7 @@ Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and lefto
    - Angle: The big Thanksgiving trip. Everyone at home adds to one list, and "Do I have this?" stops the second can of pumpkin. Caption can mention frozen turkey averaging $1.26 a pound this month, up from $1.03 last year.
    - Headline: "One Thanksgiving list the whole house can add to."
    - Source (caption price): Texas A&M AgriLife economist David Anderson via High Plains Journal, Nov 6, 2026. https://hpj.com/2026/11/06/plenty-of-turkeys-this-thanksgiving-as-wholesale-prices-hold-steady/
-   - Used:
+   - Used: 2026-11-15 (List feature; turkey price left out, sources disagreed)
 
 8. **Attention-grabbing hook** (tag a friend, post Nov 19 to 21 for Friendsgiving weekend)
    - Angle: Every Friendsgiving has a rolls person, a "I'll bring ice" person and someone who shows up with three pies. Tag yours. Light nod to a shared list so nobody doubles up.
@@ -64,4 +64,4 @@ Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and lefto
     - Angle: People will trim holiday clothes and outings before the meal. Ask where they're cutting back and where they won't. Warm, family-first.
     - Headline: "Only 17% of shoppers plan to cut back on the holiday meal."
     - Source: FMI and The Hartman Group, U.S. Grocery Shopper Trends 2026: Holidays (17% would cut back on holiday meal food vs. 46% on holiday clothing). https://theshelbyreport.com/2026/11/13/shoppers-will-protect-the-thanksgiving-feast-and-grocers-are-meeting-them-there/
-    - Used:
+    - Used: 2026-11-15
