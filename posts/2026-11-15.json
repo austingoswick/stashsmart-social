@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "status": "approved",
+  "status": "posted",
   "posts": [
     {
       "slot": "am",
@@ -39,7 +39,13 @@
       },
       "caption": "The big Thanksgiving grocery trip is coming, and somehow the list always lives on one person's phone. Then someone texts \"do we need cranberries?\" from the aisle, and nobody knows.\n\nOn the Family plan in StashSmart, up to 4 people at home add to the same List. Your sister remembers the rolls. Your kid adds whipped cream. Twice. And before you grab the pumpkin, \"Do I have this?\" checks the pantry, so you don't come home to two cans. 🥫\n\nComing soon on iPhone. Follow along, and tag the person who always does the big shop.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
       "source_note": null,
-      "status": "approved"
+      "status": "posted",
+      "posted_at": "2026-11-15T15:00:00-08:00",
+      "post_ids": {
+        "instagram": "17914553439569462",
+        "facebook": "1343390778863435_122120801517502219",
+        "facebook_photo": "122120801493502219"
+      }
     }
   ]
 }
