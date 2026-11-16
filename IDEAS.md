@@ -40,7 +40,7 @@ Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and lefto
    - Angle: Grocery prices jumped 0.4% in October, the biggest monthly rise since April, and lettuce led the way. When produce costs more, the 48-hour heads-up before it wilts matters more.
    - Headline: "Lettuce rose nearly 8% in a month. Use every leaf."
    - Source: BLS CPI, October 2026 (food at home +0.4%), via Grocery Dive (lettuce nearly +8%, fresh vegetables up 2%+). https://www.grocerydive.com/news/grocery-inflation-october-2026-meat-produce-coffee/874458/ and https://www.bls.gov/news.release/cpi.nr0.htm
-   - Used:
+   - Used: 2026-11-16 (BLS Table 2 confirms lettuce +7.9%, fresh vegetables +2.2%)
 
 7. **What StashSmart helps you do** (Family plan shared List)
    - Angle: The big Thanksgiving trip. Everyone at home adds to one list, and "Do I have this?" stops the second can of pumpkin. Caption can mention frozen turkey averaging $1.26 a pound this month, up from $1.03 last year.
