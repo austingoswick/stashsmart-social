@@ -2,12 +2,12 @@
 <title>StashSmart</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
 <style>
 /* Layout: paper page set like a price list. Hero pairs the promise with a live pantry,
    then four features shown as the real screens, a before/after shopping list, mission, waitlist. */
 :root {
-  /* Brand tokens from StashSmart Brand Guidelines, Edition 01. Swap here. */
+  /* Brand tokens from StashSmart Brand Guidelines, Edition 02. Swap here. */
   --paper: #F3F2F2;        /* ground, 70% */
   --surface: #EAE9E9;      /* cards */
   --ink: #201E1D;          /* all type */
@@ -22,7 +22,7 @@
   --marigold-tint: #FDF5D8;
   --phone: #201E1D;
   --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
-  --initial: "Playfair Display", "Source Serif 4", Georgia, serif;
+  --initial: "Source Serif 4", Georgia, serif;
   --display: clamp(2.5rem, 5.6vw, 3.5rem);  /* 56/60 */
   --headline: clamp(1.625rem, 3.2vw, 2rem); /* 32/36 */
   --title: 1.25rem;                         /* 20/24 */
@@ -240,13 +240,13 @@ footer small { color: var(--ink-soft); font-size: 0.85rem; }
   <defs>
     <symbol id="tile" viewBox="0 0 100 100">
       <rect width="100" height="100" rx="22.5" fill="#0088B0"/>
-      <text x="44" y="77" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-weight="700" font-size="74" fill="#FFFFFF">S</text>
+      <text x="44" y="77" text-anchor="middle" font-family="Source Serif 4, Georgia, serif" font-weight="700" font-size="74" fill="#FFFFFF">S</text>
       <circle cx="77" cy="24" r="9.5" fill="#FFE27A"/>
       <rect x="72.5" y="32" width="9" height="6" rx="1.5" fill="#E9ECEE"/>
     </symbol>
     <symbol id="tile-rev" viewBox="0 0 100 100">
       <rect width="100" height="100" rx="22.5" fill="#FFFFFF"/>
-      <text x="50" y="77" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-weight="700" font-size="74" fill="#0088B0">S</text>
+      <text x="50" y="77" text-anchor="middle" font-family="Source Serif 4, Georgia, serif" font-weight="700" font-size="74" fill="#0088B0">S</text>
     </symbol>
   </defs>
 </svg>
@@ -274,10 +274,11 @@ footer small { color: var(--ink-soft); font-size: 0.85rem; }
     <div class="wrap">
       <div>
         <span class="tile icon hero-icon" role="img" aria-label="StashSmart app icon"></span>
-        <p class="caption">Coming soon · Waitlist open</p>
+        <p class="caption">Coming soon on iPhone · Waitlist open</p>
         <h1>Know what you have before you <em>buy more.</em></h1>
         <p class="lede">StashSmart keeps a live inventory of your kitchen, tells you what expires next, and stores every receipt. You shop for what you need and use what you bought.</p>
         <p class="lede">Less food in the trash. More money in your pocket.</p>
+        <p class="lede"><i>Thanksgiving tip:</i> leftovers keep 3 to 4 days in the fridge, so get them in within 2 hours and plan the turkey sandwiches early. <a href="https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/turkey-basics-handling-cooked-dinners">Source: USDA FSIS</a></p>
         <form class="waitlist" data-form="hero" novalidate>
           <label for="email-hero" class="caption" style="position:absolute;left:-9999px">Email address</label>
           <input id="email-hero" name="email" type="email" inputmode="email" autocomplete="email" placeholder="you@email.com" required>
@@ -320,10 +321,10 @@ footer small { color: var(--ink-soft); font-size: 0.85rem; }
       </div>
       <div class="stats">
         <div class="stat"><div class="big">30–40%</div><p>of the US food supply goes uneaten.</p></div>
-        <div class="stat"><div class="big">$1,500</div><p>a year in food thrown out by the average family of four.</p></div>
+        <div class="stat"><div class="big">$2,913.00</div><p>a year in food that goes uneaten in a household of four.</p></div>
         <div class="stat"><div class="big">1 app</div><p>to see every item, every date and every receipt in your home.</p></div>
       </div>
-      <p class="source">Figures: USDA estimates of US food loss and household waste.</p>
+      <p class="source">Figures: USDA estimate of US food loss; U.S. EPA, Estimating the Cost of Food Waste to American Consumers (2025).</p>
     </div>
   </section>
 
@@ -339,7 +340,7 @@ footer small { color: var(--ink-soft); font-size: 0.85rem; }
         <article class="feature" style="background:var(--surface)">
           <div class="copy"><h3>Scan the date</h3><p>Point your camera at the label. StashSmart reads the expiration date and adds the item to your stash.</p></div>
           <div class="demo" style="background:var(--paper)">
-            <div class="label"><div class="caption">Greek yogurt · 32 oz</div><div class="stamp">BEST BY 10/15/26</div><div class="result">Added · expires in 6 days</div></div>
+            <div class="label"><div class="caption">Greek yogurt · 32 oz</div><div class="stamp">BEST BY 11/21/26</div><div class="result">Added · expires in 6 days</div></div>
           </div>
         </article>
 
@@ -355,7 +356,7 @@ footer small { color: var(--ink-soft); font-size: 0.85rem; }
           <div class="copy"><h3>Keep every receipt</h3><p>Digital receipts in one place. See what you spent, where, and what you could have skipped.</p></div>
           <div class="demo" style="background:var(--paper)">
             <div class="receipt" style="background:var(--surface)">
-              <div class="head"><span class="lockup" style="font-size:.8em"><span class="wordmark" style="font-size:1rem">Stash<i>Smart</i></span></span><div class="caption">Fresh Mart · 9 Oct</div></div>
+              <div class="head"><span class="lockup" style="font-size:.8em"><span class="wordmark" style="font-size:1rem">Stash<i>Smart</i></span></span><div class="caption">Fresh Mart · 14 Nov</div></div>
               <hr>
               <div class="line"><span>12 items</span><span>$41.86</span></div>
               <div class="line"><span>Already home, skipped</span><span>−$7.80</span></div>
@@ -434,9 +435,9 @@ footer small { color: var(--ink-soft); font-size: 0.85rem; }
   <section class="band" id="join">
     <div class="wrap">
       <div>
-        <a class="lockup" href="#top" aria-label="StashSmart"><svg class="tile" aria-hidden="true"><use href="#tile-rev"/></svg><span class="wordmark">Stash<i>Smart</i></span></a>
+        <a class="lockup" href="#top" aria-label="StashSmart"><span class="tile icon" role="img" aria-label="StashSmart icon"></span><span class="wordmark">Stash<i>Smart</i></span></a>
         <h2 style="margin-top:1.25rem">Be first in line when we launch.</h2>
-        <p class="sub">StashSmart is almost ready. Join the waitlist and we will send one email when you can download it.</p>
+        <p class="sub">StashSmart is coming soon on iPhone. Join the waitlist and we will send one email when it launches. 1 month free, then $2.99/month. Family: $3.99/month for up to 4 people.</p>
       </div>
       <div>
         <form class="waitlist" data-form="band" novalidate>
