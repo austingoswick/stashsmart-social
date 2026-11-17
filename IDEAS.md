@@ -16,7 +16,7 @@ Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and lefto
    - Angle: Seeing what you throw out changes it. Families who got a simple report on what they wasted cut waste by about a quarter. Ties to Pantry without a hard sell.
    - Headline: "Families who saw what they tossed cut their food waste by 28%."
    - Source: EU COMBINE project (coordinated by the International Food Waste Coalition / WRAP Europe), 2024 to 2026, households in France, Finland, Italy and Portugal. https://www.rustourismnews.com/2026/10/20/eu-study-cuts-household-food-waste-by-28-with-simple-changes/ (secondary report; confirm on an IFWC or WRAP page before posting and cite that instead).
-   - Used:
+   - Used: (2026-11-17 skipped: no primary IFWC/WRAP/EUFIC page found, and the 28% is an average across households, schools and canteens, not families alone)
 
 3. **Attention-grabbing hook** (quick tip, post Nov 18 to 20)
    - Angle: The thaw math nobody remembers. A 16 to 20 lb bird needs 4 to 5 days in the fridge, so it goes in this weekend. "Set a reminder now" CTA.
@@ -34,7 +34,7 @@ Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and lefto
    - Angle: Most shoppers lean on store loyalty programs to stay on budget. Ask how many cards they juggle. Different from the Nov 13 Wallet post: lead with the stat and the poll, Wallet only as a light mention.
    - Headline: "72% of shoppers say their store loyalty program keeps them on budget."
    - Source: FMI and The Hartman Group, U.S. Grocery Shopper Trends 2026: Holidays (1,467 shoppers, Sept 21 to 28). https://theshelbyreport.com/2026/11/13/shoppers-will-protect-the-thanksgiving-feast-and-grocers-are-meeting-them-there/
-   - Used:
+   - Used: 2026-11-17
 
 6. **What StashSmart helps you do** (Pantry expiry alerts)
    - Angle: Grocery prices jumped 0.4% in October, the biggest monthly rise since April, and lettuce led the way. When produce costs more, the 48-hour heads-up before it wilts matters more.

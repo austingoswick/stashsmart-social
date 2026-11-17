@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-17",
+  "status": "drafted",
+  "posts": [
+    {
+      "slot": "am",
+      "time": "08:00",
+      "pillar": "food-waste fact",
+      "image": "images/2026-11-17/am.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Did you know",
+        "headline": "Food is the biggest single thing in U.S. landfills.",
+        "body": "About 24% of everything that ends up there. More than plastic. More than paper.",
+        "tip": "Use what you have before the next shop.",
+        "source": "U.S. EPA"
+      },
+      "caption": "Food is the single biggest thing we send to U.S. landfills. About 24% of everything that ends up there, according to the EPA. More than plastic. More than paper.\n\nKind of wild when you picture the trash bag under your own sink. A lot of what's in there was dinner once, or was supposed to be.\n\nThe nice part is this one's in our hands. Cook from what you already have before the next shop, and that bag gets lighter. 🥫\n\nSave this for your next fridge clean-out.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "U.S. EPA, National Overview: Facts and Figures on Materials, Wastes and Recycling: food was the largest component of municipal solid waste landfilled, at about 24 percent (2018 data). https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials",
+      "status": "drafted"
+    },
+    {
+      "slot": "pm",
+      "time": "15:00",
+      "pillar": "attention-grabbing hook",
+      "image": "images/2026-11-17/pm.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Quick poll",
+        "headline": "72% of shoppers say their store loyalty program keeps them on budget.",
+        "body": "So how many store cards are you carrying right now?",
+        "tip": "Keychain, wallet and phone all count.",
+        "source": "FMI, 2026"
+      },
+      "caption": "Quick one, and you can answer with a number. How many store loyalty cards do you have right now? Keychain, wallet and phone all count.\n\n72% of shoppers say their main store's loyalty program is essential to saving money and staying on budget, per a new FMI and Hartman Group survey. With the Thanksgiving shop coming up, that tracks.\n\nAnd somehow the card you need is always the one at home. That's why we're putting them all in one place in StashSmart. Coming soon on iPhone. 💰\n\nDrop your number below.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "FMI (The Food Industry Association) and The Hartman Group, U.S. Grocery Shopper Trends 2026: Holidays. 72% strongly or somewhat agree their primary store's loyalty program is essential to saving money and staying within budget; 1,467 U.S. shoppers surveyed online Sept 21 to 28, 2026. https://massmarketretailers.com/fmi-research-holiday-shoppers-put-family-meals-first-lean-on-grocery-loyalty-programs-to-save/ and https://theshelbyreport.com/2026/11/13/shoppers-will-protect-the-thanksgiving-feast-and-grocers-are-meeting-them-there/",
+      "status": "drafted"
+    }
+  ]
+}
