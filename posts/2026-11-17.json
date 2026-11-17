@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "status": "approved",
+  "status": "posted",
   "posts": [
     {
       "slot": "am",
@@ -40,7 +40,13 @@
       },
       "caption": "Quick one, and you can answer with a number. How many store loyalty cards do you have right now? Keychain, wallet and phone all count.\n\n72% of shoppers say their main store's loyalty program is essential to saving money and staying on budget, per a new FMI and Hartman Group survey. With the Thanksgiving shop coming up, that tracks.\n\nAnd somehow the card you need is always the one at home. That's why we're putting them all in one place in StashSmart. Coming soon on iPhone. 💰\n\nDrop your number below.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
       "source_note": "FMI (The Food Industry Association) and The Hartman Group, U.S. Grocery Shopper Trends 2026: Holidays. 72% strongly or somewhat agree their primary store's loyalty program is essential to saving money and staying within budget; 1,467 U.S. shoppers surveyed online Sept 21 to 28, 2026. https://massmarketretailers.com/fmi-research-holiday-shoppers-put-family-meals-first-lean-on-grocery-loyalty-programs-to-save/ and https://theshelbyreport.com/2026/11/13/shoppers-will-protect-the-thanksgiving-feast-and-grocers-are-meeting-them-there/",
-      "status": "approved"
+      "status": "posted",
+      "posted_at": "2026-11-17T15:00:00-08:00",
+      "post_ids": {
+        "instagram": "17977737756158924",
+        "facebook": "1343390778863435_122121310971502219",
+        "facebook_photo": "122121310947502219"
+      }
     }
   ]
 }
