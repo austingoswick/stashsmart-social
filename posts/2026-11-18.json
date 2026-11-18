@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-18",
+  "status": "drafted",
+  "posts": [
+    {
+      "slot": "am",
+      "time": "08:00",
+      "pillar": "what the app helps you do",
+      "image": "images/2026-11-18/am.jpg",
+      "image_spec": {
+        "style": "cyan",
+        "kicker": "Meals",
+        "headline": "Pick Friday's leftover dinner now, before the feast.",
+        "body": "Save turkey soup or sandwiches to Friday, Nov 27. On the Family plan, everyone at home sees it.",
+        "tip": "Thursday is the feast. Friday is covered."
+      },
+      "caption": "Every year it goes the same way. Thursday is great, then Friday shows up with a mountain of turkey in the fridge and nobody has a plan.\n\nSo we're picking Friday's dinner now. Turkey noodle soup at our house, and sandwiches with the last of the cranberry sauce for lunch.\n\nIn StashSmart you can save a recipe to a date in Meals, so on Friday it's just there. On the Family plan the whole house can see it, which means fewer \"what's for dinner?\" texts. 🍗\n\nSoup or sandwiches? One word is fine. Coming soon on iPhone.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "No stat. IDEAS.md 2026-11-13 #9 (Meals, plan the leftovers).",
+      "status": "drafted"
+    },
+    {
+      "slot": "pm",
+      "time": "15:00",
+      "pillar": "attention-grabbing hook",
+      "image": "images/2026-11-18/pm.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Quick tip",
+        "headline": "A 16 to 20 pound turkey needs 4 to 5 days to thaw in the fridge.",
+        "body": "Cooking Thursday? It moves from the freezer to the fridge on Saturday.",
+        "tip": "About 1 day for every 4 to 5 pounds.",
+        "source": "USDA FSIS"
+      },
+      "caption": "Quick math before the weekend. A 16 to 20 pound turkey needs 4 to 5 days to thaw in the fridge, according to the USDA. That's about one day for every 4 to 5 pounds.\n\nSo if you're cooking Thursday, the bird moves from the freezer to the fridge on Saturday. Set it on a tray on the bottom shelf so nothing drips. Once it's thawed, it's fine in there for another day or two.\n\nNobody wants to be running cold water over a frozen turkey at 6am on Thanksgiving. 🧊\n\nSet a reminder for Saturday, then tag whoever's cooking this year.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "USDA FSIS, Let's Talk Turkey / The Big Thaw: thaw in the refrigerator about 24 hours per 4 to 5 pounds; 16 to 20 lb takes 4 to 5 days; a thawed turkey keeps 1 to 2 days in the refrigerator. https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/lets-talk-turkey-consumer-guide-safely-roasting",
+      "status": "drafted"
+    }
+  ]
+}

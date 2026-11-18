@@ -22,7 +22,7 @@ Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and lefto
    - Angle: The thaw math nobody remembers. A 16 to 20 lb bird needs 4 to 5 days in the fridge, so it goes in this weekend. "Set a reminder now" CTA.
    - Headline: "A 20-pound turkey needs 4 to 5 days to thaw in the fridge."
    - Source: USDA guidance (about 24 hours per 4 to 5 lb; thawed bird keeps 1 to 2 more days). https://www.fox32chicago.com/news/when-should-thaw-thanksgiving-turkey-usda
-   - Used:
+   - Used: 2026-11-18 (cited USDA FSIS directly)
 
 4. **Food-waste fact** (post Nov 20 or later)
    - Angle: Leftovers have a clock. Eat or freeze by Monday; frozen leftovers are best within 2 to 6 months. Refrigerate within 2 hours, in shallow containers.
@@ -58,7 +58,7 @@ Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and lefto
    - Angle: Plan the leftovers before the feast. Save a turkey soup or sandwich recipe to Friday Nov 27 now, so Friday dinner is handled and the turkey gets eaten. Different from the Nov 12 Meals post (that was weeknight planning).
    - Headline: "Save a leftover turkey recipe to Friday now."
    - Source: none
-   - Used:
+   - Used: 2026-11-18
 
 10. **Attention-grabbing hook** (poll)
     - Angle: People will trim holiday clothes and outings before the meal. Ask where they're cutting back and where they won't. Warm, family-first.
