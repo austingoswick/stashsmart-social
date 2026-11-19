@@ -4,7 +4,7 @@ Written every Friday by the weekly content-ideas run. The daily posting run read
 
 ## 2026-11-13
 
-Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and leftover ideas land best Nov 18 to 21. Already posted and off-limits: EPA $2,913.00/household, FDA 20% date labels, ReFED 320M lb / 40% turkey. INSIGHTS.md has no takeaways yet. Heads-up: the American Farm Bureau usually publishes its 2026 Thanksgiving dinner cost survey around Nov 19; worth checking for a fresh price post.
+Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and leftover ideas land best Nov 18 to 21. Already posted and off-limits: EPA $2,913.00/household, FDA 20% date labels, ReFED 320M lb / 40% turkey. INSIGHTS.md has no takeaways yet. Heads-up: the American Farm Bureau usually publishes its 2026 Thanksgiving dinner cost survey around Nov 19; worth checking for a fresh price post. (Used 2026-11-19: $58.63 for 10, released Nov 18.)
 
 1. **Food-waste fact**
    - Angle: The good news. American homes are wasting less, and higher grocery prices are part of why. Positive, "you're already doing it" tone.

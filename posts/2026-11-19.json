@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-19",
+  "status": "drafted",
+  "posts": [
+    {
+      "slot": "am",
+      "time": "08:00",
+      "pillar": "what the app helps you do",
+      "image": "images/2026-11-19/am.jpg",
+      "image_spec": {
+        "style": "cyan",
+        "kicker": "Receipts",
+        "headline": "Keep every grocery receipt without keeping the paper.",
+        "body": "StashSmart saves your receipts next to your store cards and coupons, so returns and budgets get easier.",
+        "tip": "Even the long one from the holiday shop."
+      },
+      "caption": "The receipt from the big Thanksgiving shop is going to be long. By Saturday it'll be crumpled at the bottom of a bag or stuck in the car door.\n\nAnd that's the one you'll want. It's how you return the extra can of cranberry sauce, or figure out what that trip really cost.\n\nWe're building StashSmart so your receipts live in the app, right next to your store cards and coupons. No digging through the recycling on Sunday. 💰\n\nSave this for the big shop, and follow along. StashSmart is coming soon to iPhone.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "No stat. Receipt storage feature (PLAYBOOK.md About StashSmart).",
+      "status": "drafted"
+    },
+    {
+      "slot": "pm",
+      "time": "15:00",
+      "pillar": "attention-grabbing hook",
+      "image": "images/2026-11-19/pm.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Thanksgiving 2026",
+        "headline": "A classic Thanksgiving dinner for 10 costs $58.63 this year.",
+        "body": "About $5.86 a person, up more than 6% from 2025. A 16-pound turkey is $23.68.",
+        "tip": "Higher or lower at your house?",
+        "source": "American Farm Bureau Federation, 2026 survey"
+      },
+      "caption": "$58.63. That's what a classic Thanksgiving dinner for 10 costs this year, according to the American Farm Bureau's new survey. Turkey, stuffing, sweet potatoes, rolls, cranberries, pumpkin pie, the whole table.\n\nThat works out to about $5.86 a person, up more than 6% from last year. The 16-pound turkey alone is $23.68.\n\nOurs will land higher. Someone always adds a second pie. 🍗\n\nHigher or lower at your house? A number is plenty. Tag whoever's doing the shopping this year.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "American Farm Bureau Federation, 2026 Thanksgiving Dinner Cost Survey (Nov 18, 2026): classic meal for 10 $58.63, more than 6% above 2025, below the 2022 record $64.05; 16-lb frozen turkey $23.68 ($1.48/lb, up 10%). Per person $5.86 = $58.63/10. https://www.fb.org/news-release/cost-of-thanksgiving-dinner-increases-remains-below-2022-record-high",
+      "status": "drafted"
+    }
+  ]
+}
