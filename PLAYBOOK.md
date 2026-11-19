@@ -7,6 +7,7 @@ The daily scheduled task follows this file. Edit it to change how posts are writ
 - Austin approves each morning (target 7:00am).
 - Approved posts publish at **8:00am** and **3:00pm** Pacific, identical on Instagram and Facebook.
 - Nothing is ever published without Austin's explicit approval in that day's conversation.
+- STANDING APPROVAL (Austin, Nov 19, 2026: "Approve for the next 14 days"): for Nov 20 through Dec 2, 2026, each day's drafted posts and comment replies count as approved. Still draft, check and send everything to Austin each morning; he can still change or skip anything before its time, and a skip always wins. From Dec 3, 2026 the normal daily approval applies again.
 
 ## Accounts (Windsor.ai for Social Media connector)
 - Instagram: connector `instagram`, account `17841426931536218` (stashsmart.app), action `create_image_post` (params: `image_url`, `caption`).
