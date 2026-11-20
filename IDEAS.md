@@ -2,6 +2,60 @@
 
 Written every Friday by the weekly content-ideas run. The daily posting run reads this file and uses these ideas first (marking each one used with the date). Newest week at the top.
 
+## 2026-11-20
+
+Ideas for Nov 21 to 27, plus a couple that run into early December. Thanksgiving is Thu Nov 26, Black Friday Nov 27, Small Business Saturday Nov 28, Cyber Monday Nov 30, Giving Tuesday Dec 1, and Hanukkah starts the evening of Fri Dec 4. Per INSIGHTS.md: save the myth-vs-fact and one-word-answer hooks for Fri/Sat PM, keep app posts to one concrete annoying moment, vary the CTA. Already posted and off-limits: everything in posts/ through Nov 20 (FDA date labels, EPA freezer/0°F, FoodSafety.gov leftovers 3 to 4 days, AFBF $58.63, ReFED 950,000 tons, FMI 72% and 17%). News this week: October food-at-home CPI +0.4%, steak up almost 2%, coffee down about 3.5% (Grocery Dive, Nov 12); Circana says shoppers bought fewer units in October, turkey pounds down 15.1% (Supermarket News, Nov 18).
+
+1. **Food-waste fact** (positive)
+   - Angle: High prices made a lot of us smarter with food. More than half of households say grocery prices pushed them to waste less. "You're already doing it" tone, then a nod to the Pantry.
+   - Headline: "56% of households say grocery prices pushed them to waste less food."
+   - Source: ReFED and YouGov, American Households in 2026: Grocery Spending, Behavior Change, and Food Waste Reduction (1,000 U.S. households, January 2026, self-reported). https://refed.org/uploads/2026-refed-yougov-survey-report-final.pdf
+
+2. **Attention-grabbing hook** (myth or fact, post Fri Nov 27 or Sat Nov 28 PM)
+   - Angle: "Myth or fact: once it's thawed, it can't go back in the freezer." Myth, if it thawed in the fridge (quality may dip a little). Saves the leftover raw bird, ground beef and rolls bought for Thursday.
+   - Headline: "Myth or fact: thawed food can never go back in the freezer."
+   - Source: USDA FSIS, The Big Thaw: Safe Defrosting Methods (food thawed in the refrigerator can be refrozen without cooking; some quality loss). https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/big-thaw-safe-defrosting-methods (confirm wording on the live page before posting)
+
+3. **What StashSmart helps you do** (Wallet, Black Friday Nov 27)
+   - Angle: The coupon you clipped is on the kitchen counter and you're at register 4. Wallet keeps loyalty cards and coupons on your phone. Marigold on the $0.00.
+   - Headline: "The coupon on your kitchen counter saves you $0.00."
+   - Source: none
+
+4. **Attention-grabbing hook** (one-word answer, Fri Nov 27 PM)
+   - Angle: Leftover pie for breakfast the morning after Thanksgiving. Yes or no. Light, no stat, "save this for next year" or "tag your pie-for-breakfast person" CTA.
+   - Headline: "Pie for breakfast the day after Thanksgiving. Yes or no?"
+   - Source: none
+
+5. **What StashSmart helps you do** (Pantry expiry alerts, Nov 28 to 30)
+   - Angle: The half carton of heavy cream, the open cranberry sauce, the extra celery. Thursday's odds and ends get a heads-up 48 hours before they turn.
+   - Headline: "Leftover cream from Thursday? Get a heads-up 48 hours before it turns."
+   - Source: none
+
+6. **Attention-grabbing hook** (poll, post Nov 21 to 24)
+   - Angle: More people are cooking the turkey from scratch this year. Scratch or store-bought: one-word answer.
+   - Headline: "59% of hosts plan to cook their turkey from scratch this year."
+   - Source: FMI, Nov 12 media briefing on U.S. Grocery Shopper Trends 2026: Holidays (59% plan to prepare the turkey from scratch, up 16 points from fall 2025), via The Shelby Report, Nov 16, 2026. https://theshelbyreport.com/2026/11/16/food-prices-tick-higher-as-shoppers-protect-holiday-meal-fmi-says/ (check the wording: it may be "shoppers serving turkey", not "hosts")
+
+7. **What StashSmart helps you do** (List + "Do I have this?", post Dec 1 to 3)
+   - Angle: Latke night needs potatoes, onions and a lot of oil, and there's probably half a bottle of oil already in the cabinet. Check before you buy. Keep it warm and inclusive, no religious claims.
+   - Headline: "Hanukkah starts Dec. 4. Check for oil before you buy another bottle."
+   - Source: Hebcal, Chanukah 2026 (begins at sundown Fri Dec 4). https://www.hebcal.com/holidays/chanukah-2026
+
+8. **Food-waste fact**
+   - Angle: Wasted food doesn't just cost money; in the landfill it turns into methane fast. Keep it calm and practical: eat the leftovers, freeze what you won't.
+   - Headline: "Food waste makes up 58% of the methane escaping U.S. landfills."
+   - Source: U.S. EPA, Quantifying Methane Emissions from Landfilled Food Waste (Oct 2023): about 58% of fugitive methane emissions from municipal solid waste landfills are from landfilled food waste. https://www.epa.gov/land-research/quantifying-methane-emissions-landfilled-food-waste
+
+9. **Food-waste fact** (post near Giving Tuesday, Dec 1)
+   - Angle: Canned food lasts a lot longer than people think, so the cans at the back of the pantry are dinner, not trash. Caption: use them or donate the unopened ones to a food drive (no dented, bulging or rusted cans).
+   - Headline: "Canned beans and vegetables keep 2 to 5 years on the shelf."
+   - Source: USDA FSIS, Shelf-Stable Food Safety (low-acid canned goods 2 to 5 years; high-acid such as tomatoes and fruit 12 to 18 months). https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/shelf-stable-food
+
+10. **What StashSmart helps you do** (Family plan)
+    - Angle: Two people, two separate store runs, four gallons of milk. One shared List and Pantry for up to 4 people. Caption can include the plan price line.
+    - Headline: "Two of you stopped at the store. Now you own four gallons of milk."
+    - Source: none (pricing from PLAYBOOK.md: Family $3.99/month for up to 4 people)
+
 ## 2026-11-13
 
 Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and leftover ideas land best Nov 18 to 21. Already posted and off-limits: EPA $2,913.00/household, FDA 20% date labels, ReFED 320M lb / 40% turkey. INSIGHTS.md has no takeaways yet. Heads-up: the American Farm Bureau usually publishes its 2026 Thanksgiving dinner cost survey around Nov 19; worth checking for a fresh price post. (Used 2026-11-19: $58.63 for 10, released Nov 18.)
