@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-20",
+  "status": "drafted",
+  "posts": [
+    {
+      "slot": "am",
+      "time": "08:00",
+      "pillar": "food-waste fact",
+      "image": "images/2026-11-20/am.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Save this for next week",
+        "headline": "Thanksgiving leftovers keep 3 to 4 days. Monday is the deadline.",
+        "body": "Put them away within 2 hours of cooking, in shallow containers. Frozen, they're best within 2 to 6 months.",
+        "tip": "Freeze what you won't eat by Sunday.",
+        "source": "FoodSafety.gov"
+      },
+      "caption": "Save this one for next Thursday night, when the fridge is packed and everyone's too full to think.\n\nThanksgiving leftovers keep 3 to 4 days in the fridge, according to FoodSafety.gov. So if the feast is Thursday, Monday is the last day for that turkey.\n\nTwo things help. Get everything put away within 2 hours of cooking, in small shallow containers so it cools fast. And whatever you won't get to by Sunday, freeze it. It's best within 2 to 6 months. 🧊\n\nSave this, or send it to whoever's hosting.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "FoodSafety.gov, Thanksgiving Leftovers for Safe Keeping, Weekend Grazing (last modified 2026-10-29): leftovers keep 3 to 4 days in the refrigerator; store within two hours of cooking; covered shallow containers; frozen leftovers best quality within 2-6 months. https://www.foodsafety.gov/blog/turkey_leftovers.html",
+      "status": "drafted"
+    },
+    {
+      "slot": "pm",
+      "time": "15:00",
+      "pillar": "attention-grabbing hook",
+      "image": "images/2026-11-20/pm.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Friendsgiving",
+        "headline": "Tag the friend who always brings the rolls to Friendsgiving.",
+        "body": "Also the one who brings just ice, and the one who shows up with three pies.",
+        "tip": "Who's yours?"
+      },
+      "caption": "Every Friendsgiving has the same cast. The friend who brings rolls, every year, no discussion. The one who offers to bring ice. Just ice. And the one who walks in with three pies when you asked for one.\n\nWe love all of them. Especially the pie one.\n\nTag your rolls friend. Or tag the pie person, we won't tell. 🙌\n\nIf your group keeps ending up with four bowls of mashed potatoes, a shared list fixes that. It's part of what we're building with StashSmart, coming soon to iPhone. Follow along.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "No stat. Friendsgiving tag-a-friend hook (IDEAS.md 2026-11-13 #8).",
+      "status": "drafted"
+    }
+  ]
+}

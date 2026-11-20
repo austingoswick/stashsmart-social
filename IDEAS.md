@@ -28,7 +28,7 @@ Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and lefto
    - Angle: Leftovers have a clock. Eat or freeze by Monday; frozen leftovers are best within 2 to 6 months. Refrigerate within 2 hours, in shallow containers.
    - Headline: "Thanksgiving leftovers keep 3 to 4 days. Monday is the deadline."
    - Source: FoodSafety.gov (USDA/FDA), Turkey leftovers. https://www.foodsafety.gov/blog/turkey_leftovers.html
-   - Used:
+   - Used: 2026-11-20 (drafted)
 
 5. **Attention-grabbing hook** (agree or disagree poll)
    - Angle: Most shoppers lean on store loyalty programs to stay on budget. Ask how many cards they juggle. Different from the Nov 13 Wallet post: lead with the stat and the poll, Wallet only as a light mention.
@@ -52,7 +52,7 @@ Ideas for Nov 14 to 20. Thanksgiving is Thu Nov 26, so the turkey-thaw and lefto
    - Angle: Every Friendsgiving has a rolls person, a "I'll bring ice" person and someone who shows up with three pies. Tag yours. Light nod to a shared list so nobody doubles up.
    - Headline: "Tag the friend who always brings the rolls to Friendsgiving."
    - Source: none (no stat)
-   - Used:
+   - Used: 2026-11-20 (drafted)
 
 9. **What StashSmart helps you do** (Meals)
    - Angle: Plan the leftovers before the feast. Save a turkey soup or sandwich recipe to Friday Nov 27 now, so Friday dinner is handled and the turkey gets eaten. Different from the Nov 12 Meals post (that was weeknight planning).
