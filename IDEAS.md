@@ -10,6 +10,7 @@ Ideas for Nov 21 to 27, plus a couple that run into early December. Thanksgiving
    - Angle: High prices made a lot of us smarter with food. More than half of households say grocery prices pushed them to waste less. "You're already doing it" tone, then a nod to the Pantry.
    - Headline: "56% of households say grocery prices pushed them to waste less food."
    - Source: ReFED and YouGov, American Households in 2026: Grocery Spending, Behavior Change, and Food Waste Reduction (1,000 U.S. households, January 2026, self-reported). https://refed.org/uploads/2026-refed-yougov-survey-report-final.pdf
+   - Used: 2026-11-21 (worded as "waste less than a year ago"; the 56% isn't attributed to prices in the coverage)
 
 2. **Attention-grabbing hook** (myth or fact, post Fri Nov 27 or Sat Nov 28 PM)
    - Angle: "Myth or fact: once it's thawed, it can't go back in the freezer." Myth, if it thawed in the fridge (quality may dip a little). Saves the leftover raw bird, ground beef and rolls bought for Thursday.
@@ -35,6 +36,7 @@ Ideas for Nov 21 to 27, plus a couple that run into early December. Thanksgiving
    - Angle: More people are cooking the turkey from scratch this year. Scratch or store-bought: one-word answer.
    - Headline: "59% of hosts plan to cook their turkey from scratch this year."
    - Source: FMI, Nov 12 media briefing on U.S. Grocery Shopper Trends 2026: Holidays (59% plan to prepare the turkey from scratch, up 16 points from fall 2025), via The Shelby Report, Nov 16, 2026. https://theshelbyreport.com/2026/11/16/food-prices-tick-higher-as-shoppers-protect-holiday-meal-fmi-says/ (check the wording: it may be "shoppers serving turkey", not "hosts")
+   - Used: 2026-11-21 (worded as "turkey shoppers"; FMI: among shoppers planning a turkey)
 
 7. **What StashSmart helps you do** (List + "Do I have this?", post Dec 1 to 3)
    - Angle: Latke night needs potatoes, onions and a lot of oil, and there's probably half a bottle of oil already in the cabinet. Check before you buy. Keep it warm and inclusive, no religious claims.

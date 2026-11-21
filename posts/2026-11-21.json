@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-21",
+  "status": "drafted",
+  "posts": [
+    {
+      "slot": "am",
+      "time": "08:00",
+      "pillar": "food-waste fact",
+      "image": "images/2026-11-21/am.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Good news",
+        "headline": "56% of U.S. households say they waste less food than a year ago.",
+        "body": "From a nationwide survey of 1,000 households this year.",
+        "tip": "Odds are, you're one of them.",
+        "source": "ReFED and YouGov, 2026"
+      },
+      "caption": "56% of U.S. households say they're wasting less food than they did a year ago. That's from a ReFED and YouGov survey of 1,000 households this year.\n\nReFED found tighter grocery budgets play a part. When chicken costs what it costs, the leftovers get eaten. Still, that's more than half of us, doing it in real kitchens on regular weeknights.\n\nThe next step is just knowing what's in there before it turns. That's what we're building the Pantry in StashSmart to do, coming soon to iPhone. 🥫\n\nFollow along if you want a heads-up when it's ready.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "ReFED with YouGov, American Households in 2026: Grocery Spending, Behavior Change and Food Waste Reduction (nationally representative survey of 1,000 U.S. households, released July 7, 2026): 56% of respondents report they actively waste less food than a year ago; households under budget pressure more likely to report reduced waste. https://refed.org/articles/new-report-shows-opportunity-to-engage-consumers-on-food-waste-with-affordability-message/ and https://www.thepacker.com/news/sustainability/rising-food-prices-drive-americans-waste-less",
+      "status": "drafted"
+    },
+    {
+      "slot": "pm",
+      "time": "15:00",
+      "pillar": "attention-grabbing hook",
+      "image": "images/2026-11-21/pm.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Quick poll",
+        "headline": "59% of turkey shoppers plan to make it from scratch this year.",
+        "body": "That's up 16 points from last year. Scratch or store-bought at your table?",
+        "tip": "One word is plenty.",
+        "source": "FMI, U.S. Grocery Shopper Trends 2026: Holidays"
+      },
+      "caption": "Scratch or store-bought. One word, that's all we need.\n\nAmong shoppers planning a turkey this year, 59% say they'll make it from scratch at home, according to FMI. That's up 16 points from last year. A lot of people are about to meet the brine bucket for the first time.\n\nNo wrong answer here. A store-bought turkey on a calm Thursday is a win too.\n\nDrop your one word below. And if you're going scratch, tag whoever's helping you lift it out of the oven. 🍗\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "FMI, U.S. Grocery Shopper Trends 2026: Holidays (released Nov 12, 2026): among shoppers planning a turkey, 59% will make it from scratch at home, up 16 points from 2025. https://www.meatpoultry.com/articles/34327-fmi-study-americans-protect-holiday-food-spending",
+      "status": "drafted"
+    }
+  ]
+}
