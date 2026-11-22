@@ -47,6 +47,7 @@ Ideas for Nov 21 to 27, plus a couple that run into early December. Thanksgiving
    - Angle: Wasted food doesn't just cost money; in the landfill it turns into methane fast. Keep it calm and practical: eat the leftovers, freeze what you won't.
    - Headline: "Food waste makes up 58% of the methane escaping U.S. landfills."
    - Source: U.S. EPA, Quantifying Methane Emissions from Landfilled Food Waste (Oct 2023): about 58% of fugitive methane emissions from municipal solid waste landfills are from landfilled food waste. https://www.epa.gov/land-research/quantifying-methane-emissions-landfilled-food-waste
+   - Used: 2026-11-22
 
 9. **Food-waste fact** (post near Giving Tuesday, Dec 1)
    - Angle: Canned food lasts a lot longer than people think, so the cans at the back of the pantry are dinner, not trash. Caption: use them or donate the unopened ones to a food drive (no dented, bulging or rusted cans).
@@ -57,6 +58,7 @@ Ideas for Nov 21 to 27, plus a couple that run into early December. Thanksgiving
     - Angle: Two people, two separate store runs, four gallons of milk. One shared List and Pantry for up to 4 people. Caption can include the plan price line.
     - Headline: "Two of you stopped at the store. Now you own four gallons of milk."
     - Source: none (pricing from PLAYBOOK.md: Family $3.99/month for up to 4 people)
+    - Used: 2026-11-22 (headline changed to three gallons)
 
 ## 2026-11-13
 

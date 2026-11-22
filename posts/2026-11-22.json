@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-22",
+  "status": "drafted",
+  "posts": [
+    {
+      "slot": "am",
+      "time": "08:00",
+      "pillar": "food-waste fact",
+      "image": "images/2026-11-22/am.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Did you know",
+        "headline": "Food waste makes up 58% of the methane escaping U.S. landfills.",
+        "body": "Food breaks down faster than most trash, so it gives off methane early.",
+        "tip": "Eat it or freeze it. Both count.",
+        "source": "U.S. EPA, 2023"
+      },
+      "caption": "Here's one that surprised us. About 58% of the methane escaping U.S. landfills comes from food waste, according to the EPA.\n\nFood breaks down faster than most of what ends up in there, so it gives off that gas early. That's the part of a forgotten bag of spinach nobody really thinks about.\n\nThe fix is pretty unglamorous. Eat the leftovers this week, and freeze what you won't get to. 🧊\n\nSave this one for Friday, when the fridge is packed.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "U.S. EPA Office of Research and Development, Quantifying Methane Emissions from Landfilled Food Waste (Oct 2023): an estimated 58% of fugitive methane emissions (those not captured by landfill gas collection) from municipal solid waste landfills are from landfilled food waste; food decays faster than other landfilled materials. https://www.epa.gov/land-research/quantifying-methane-emissions-landfilled-food-waste",
+      "status": "drafted"
+    },
+    {
+      "slot": "pm",
+      "time": "15:00",
+      "pillar": "what the app helps you do",
+      "image": "images/2026-11-22/pm.jpg",
+      "image_spec": {
+        "style": "cyan",
+        "kicker": "Family plan",
+        "headline": "Two of you stopped for milk. Now the fridge has three gallons.",
+        "body": "One List and one Pantry, shared by up to 4 people in your house.",
+        "tip": "Add it once. Everyone sees it."
+      },
+      "caption": "You grabbed milk on the way home. So did they. Now there are two new gallons in the fridge, plus the one that was already in there, and a lot of cereal in your future.\n\nIt happens most in busy weeks, and this week is about as busy as it gets. With the Family plan in StashSmart, up to 4 people share one List and one Pantry. Add milk once and everyone sees it.\n\n1 month free, then $2.99/month. Family: $3.99/month for up to 4 people. Coming soon to iPhone. 🥛\n\nTag the person you keep doubling up with.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "No external stat. Pricing from PLAYBOOK.md.",
+      "status": "drafted"
+    }
+  ]
+}
