@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-23",
+  "status": "drafted",
+  "posts": [
+    {
+      "slot": "am",
+      "time": "08:00",
+      "pillar": "food-waste fact",
+      "image": "images/2026-11-23/am.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Check the cabinet",
+        "headline": "Canned pumpkin and green beans keep 2 to 5 years on the shelf.",
+        "body": "Cranberry sauce and other high-acid cans keep 12 to 18 months.",
+        "tip": "Look in the back before you buy another can.",
+        "source": "USDA FSIS, Shelf-Stable Food Safety"
+      },
+      "caption": "Before you grab another can of pumpkin this week, check the back of the cabinet. The one from last year is probably fine.\n\nThe USDA says low-acid canned foods like pumpkin, green beans and corn keep 2 to 5 years on the shelf. High-acid ones, like cranberry sauce and tomatoes, keep 12 to 18 months. If a can is bulging, leaking or badly dented, toss it.\n\nSo that green bean casserole might already be half paid for. 🥫\n\nSave this for your pre-shop cabinet dig.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "USDA FSIS, Shelf-Stable Food Safety: high-acid canned foods (tomatoes, fruit) keep best quality 12 to 18 months; low-acid canned foods (meat, poultry, fish, most vegetables incl. beans, corn, pumpkin) 2 to 5 years; discard cans that are dented, leaking, bulging or rusted. https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/shelf-stable-food",
+      "status": "drafted"
+    },
+    {
+      "slot": "pm",
+      "time": "15:00",
+      "pillar": "attention-grabbing hook",
+      "image": "images/2026-11-23/pm.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Quick poll",
+        "headline": "Monday, Tuesday or Wednesday. When’s your big Thanksgiving grocery run?",
+        "body": "Or are you the Thursday morning “we’re out of butter” run?",
+        "tip": "Answer with a day."
+      },
+      "caption": "Monday, Tuesday or Wednesday. When's the big Thanksgiving grocery run at your house?\n\nOne of us says Monday every year and ends up there Wednesday night anyway, in a long line of people holding celery and broth.\n\nWhatever day it is, check for butter and chicken broth before you leave. Those are the two we always forget we're out of.\n\nThat moment is a big part of why we're building StashSmart. Coming soon to iPhone. 🍗\n\nAnswer with a day below.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "No external stat.",
+      "status": "drafted"
+    }
+  ]
+}

@@ -53,6 +53,7 @@ Ideas for Nov 21 to 27, plus a couple that run into early December. Thanksgiving
    - Angle: Canned food lasts a lot longer than people think, so the cans at the back of the pantry are dinner, not trash. Caption: use them or donate the unopened ones to a food drive (no dented, bulging or rusted cans).
    - Headline: "Canned beans and vegetables keep 2 to 5 years on the shelf."
    - Source: USDA FSIS, Shelf-Stable Food Safety (low-acid canned goods 2 to 5 years; high-acid such as tomatoes and fruit 12 to 18 months). https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/shelf-stable-food
+   - Used: 2026-11-23 (Thanksgiving angle: canned pumpkin and green beans)
 
 10. **What StashSmart helps you do** (Family plan)
     - Angle: Two people, two separate store runs, four gallons of milk. One shared List and Pantry for up to 4 people. Caption can include the plan price line.
