@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "status": "drafted",
+  "status": "approved",
   "posts": [
     {
       "slot": "am",
@@ -17,7 +17,8 @@
       },
       "caption": "It's Wednesday night, you open the fridge, and the turkey is still a rock. It happens.\n\nThe USDA's fix is cold water. Leave the bird in its original wrapping, submerge it in cold water and plan on about 30 minutes per pound. Change the water every 30 minutes. A 14 pound turkey is roughly 7 hours. 🧊\n\nTwo rules. No thawing on the counter, and no hot water. Once it's thawed this way, it goes straight in the oven.\n\nSend this to whoever's in charge of the turkey this year.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
       "source_note": "USDA FSIS, Happy Thanksgiving (Thawing Turkey): cold water thawing, allow 30 minutes per pound, submerge in original wrapping, change the water every 30 minutes, cook immediately after thawing; thawing on the counter or in hot water is not safe. https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/happy-thanksgiving (14 lb x 30 min = 7 hours is our arithmetic)",
-      "status": "drafted"
+      "status": "approved",
+      "approved_by": "auto-approval granted by Austin 2026-11-24"
     },
     {
       "slot": "pm",
@@ -33,7 +34,9 @@
       },
       "caption": "The store is going to be packed tonight. You'll be in the dairy aisle with a full cart, trying to remember if there's butter in the fridge or if someone used the last stick on Sunday's cookies.\n\nSo you grab another one. Just in case. Again.\n\nThat's the moment we're building \"Do I have this?\" for. Check your Pantry right from the store, grab what's actually missing and get home. On the Family plan, everyone in the house sees the same Pantry. Coming soon to iPhone. 🙌\n\nGood luck out there tonight. Follow along for more.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
       "source_note": "No external stat. List / \"Do I have this?\" check on the Thanksgiving-eve store run.",
-      "status": "drafted"
+      "status": "approved",
+      "approved_by": "auto-approval granted by Austin 2026-11-24"
     }
-  ]
+  ],
+  "approved_by": "auto-approval granted by Austin 2026-11-24"
 }
