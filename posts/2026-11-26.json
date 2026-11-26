@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-26",
+  "status": "drafted",
+  "posts": [
+    {
+      "slot": "am",
+      "time": "08:00",
+      "pillar": "attention-grabbing hook",
+      "image": "images/2026-11-26/am.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Happy Thanksgiving",
+        "headline": "Dinner is “at 2.” What time do you actually sit down?",
+        "body": "Drop the real time in the comments. No judgment, the turkey runs the schedule.",
+        "tip": "Answer with a number."
+      },
+      "caption": "Happy Thanksgiving.\n\nQuick one before the kitchen gets loud. Every family says dinner is at 2. Then the turkey needs another 40 minutes, someone's still on the road, and the rolls never made it into the oven.\n\nSo be honest. What time do you actually sit down? Just drop the time in the comments.\n\nHowever late it runs, we hope the table's full and someone else does the dishes. 🍗\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "No external stat. Thanksgiving-morning number-answer hook (INSIGHTS.md: one-word or number-answer questions).",
+      "status": "drafted"
+    },
+    {
+      "slot": "pm",
+      "time": "15:00",
+      "pillar": "what the app helps you do",
+      "image": "images/2026-11-26/pm.jpg",
+      "image_spec": {
+        "style": "cyan",
+        "kicker": "Meals",
+        "headline": "Friday's dinner is already in your fridge.",
+        "body": "Save a leftover recipe to Friday now, and tomorrow night is already handled.",
+        "tip": "What's for dinner?"
+      },
+      "caption": "If you're reading this, you're either full or hiding in the kitchen. Either way, hi.\n\nHere's a thought for tomorrow. Friday's dinner is already sitting in your fridge. It just needs a plan before it turns into six containers nobody opens.\n\nPick one leftover recipe now and save it to Friday. Turkey soup counts. So does a sandwich bar. That's what we're building Meals in StashSmart for, and on the Family plan everyone at home sees what's for dinner. Coming soon to iPhone. 🙌\n\nWhat's the leftover meal your family fights over? Reply and tell us.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "No external stat. Meals: save a leftover recipe to Friday (fresh take on the unpublished Nov 18 draft, IDEAS.md 2026-11-13 #9).",
+      "status": "drafted"
+    }
+  ]
+}
