@@ -16,11 +16,13 @@ Ideas for Nov 21 to 27, plus a couple that run into early December. Thanksgiving
    - Angle: "Myth or fact: once it's thawed, it can't go back in the freezer." Myth, if it thawed in the fridge (quality may dip a little). Saves the leftover raw bird, ground beef and rolls bought for Thursday.
    - Headline: "Myth or fact: thawed food can never go back in the freezer."
    - Source: USDA FSIS, The Big Thaw: Safe Defrosting Methods (food thawed in the refrigerator can be refrozen without cooking; some quality loss). https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/big-thaw-safe-defrosting-methods (confirm wording on the live page before posting)
+   - Used: 2026-11-27 (cited FSIS Freezing and Food Safety: fridge-thawed food can be refrozen without cooking; cold water or microwave thawed, cook first)
 
 3. **What StashSmart helps you do** (Wallet, Black Friday Nov 27)
    - Angle: The coupon you clipped is on the kitchen counter and you're at register 4. Wallet keeps loyalty cards and coupons on your phone. Marigold on the $0.00.
    - Headline: "The coupon on your kitchen counter saves you $0.00."
    - Source: none
+   - Used: 2026-11-27 (headline: "What the coupon on your kitchen counter saves you." with $0.00 highlight)
 
 4. **Attention-grabbing hook** (one-word answer, Fri Nov 27 PM)
    - Angle: Leftover pie for breakfast the morning after Thanksgiving. Yes or no. Light, no stat, "save this for next year" or "tag your pie-for-breakfast person" CTA.

@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-27",
+  "status": "approved",
+  "approved_by": "auto-approval granted by Austin 2026-11-24",
+  "posts": [
+    {
+      "slot": "am",
+      "time": "08:00",
+      "pillar": "what the app helps you do",
+      "image": "images/2026-11-27/am.jpg",
+      "image_spec": {
+        "style": "cyan",
+        "kicker": "Wallet",
+        "highlight": "$0.00",
+        "headline": "What the coupon on your kitchen counter saves you.",
+        "body": "Keep your store cards and coupons on your phone, so they're with you at the register.",
+        "tip": "Smart shopping made easy."
+      },
+      "caption": "Black Friday, register 4, cart full. And the coupon you clipped on Tuesday is sitting on the kitchen counter, right next to the store card.\n\nA coupon at home saves you $0.00. We've all done it.\n\nSo we're building Wallet in StashSmart to keep your store cards and coupons on your phone, the one thing you never leave in the car. 💰 Coming soon to iPhone.\n\nIf you're out shopping today, good luck out there. Tag the friend who always clips the coupon and never has it with them.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "No external stat. Wallet on Black Friday: the clipped coupon left at home (IDEAS.md 2026-11-20 #3).",
+      "status": "approved",
+      "approved_by": "auto-approval granted by Austin 2026-11-24"
+    },
+    {
+      "slot": "pm",
+      "time": "15:00",
+      "pillar": "attention-grabbing hook",
+      "image": "images/2026-11-27/pm.jpg",
+      "image_spec": {
+        "style": "paper",
+        "kicker": "Myth or fact",
+        "headline": "Once it's thawed, it can't go back in the freezer.",
+        "body": "Myth, if it thawed in the fridge. You can refreeze it without cooking. It may lose a little quality.",
+        "tip": "Thawed in cold water or the microwave? Cook it before it goes back in.",
+        "source": "USDA FSIS"
+      },
+      "caption": "Myth or fact: once something's thawed, it can't go back in the freezer.\n\nMyth, as long as it thawed in the fridge. The USDA says food thawed in the refrigerator can be refrozen without cooking. It might lose a little quality from the moisture, but it's safe.\n\nSo the extra rolls and pie crust you never got to don't have to go in the trash. Back in the freezer they go. 🧊\n\nOne catch: if it thawed in cold water or the microwave, cook it first, then freeze it.\n\nWhat's still in your fridge from yesterday? Tell us below.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
+      "source_note": "USDA FSIS, Freezing and Food Safety (Refreezing): once food is thawed in the refrigerator, it is safe to refreeze it without cooking, although there may be a loss of quality; foods thawed in cold water or the microwave should be cooked before refreezing. https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/freezing-and-food-safety (also FSIS, The Big Thaw). IDEAS.md 2026-11-20 #2.",
+      "status": "approved",
+      "approved_by": "auto-approval granted by Austin 2026-11-24"
+    }
+  ]
+}
