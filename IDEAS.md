@@ -2,6 +2,60 @@
 
 Written every Friday by the weekly content-ideas run. The daily posting run reads this file and uses these ideas first (marking each one used with the date). Newest week at the top.
 
+## 2026-11-27
+
+Ideas for Nov 28 to Dec 4, the stretch between Thanksgiving and early December. Small Business Saturday Nov 28, Cyber Monday Nov 30, Giving Tuesday Dec 1, Hanukkah starts at sundown Fri Dec 4 (see 2026-11-20 #7, still unused, along with #4 pie and #5 leftover cream). Per INSIGHTS.md: attach a habit or tip to every fact, tie app posts to a price headline or one concrete moment, keep captions to one number, save myth-vs-fact and one-word hooks for Fri/Sat PM. Off-limits (already posted): FDA 20% date labels, EPA freezer 0°F and refreeze, FoodSafety.gov leftovers 3 to 4 days, USDA 30 to 40%, EPA biggest landfill material, EPA 58% methane, ReFED 950,000 tons and 56%, FMI 72%/17%/59%, BLS lettuce 7.9%, AFBF $58.63, Wallet (posted Nov 13 and Nov 27, so no Wallet this week). News this week: USDA ERS November Food Price Outlook (Nov 24): food at home +2.4% in 2026 and +1.9% in 2027, beef +9.0%, eggs -29.5%, fresh vegetables +6.5% (up from 5.8%), sugar and sweets +6.5%; wholesale vegetable prices up 27% in October (Axios, Nov 14).
+
+1. **Food-waste fact** (post Nov 28 to 30)
+   - Angle: The holidays fill the trash. Household garbage can jump a quarter between Thanksgiving and New Year's. Habit: eat what's in the fridge before the next big shop.
+   - Headline: "Household trash can grow 25% between Thanksgiving and New Year's."
+   - Source: U.S. EPA, Green Your Holiday Scene (archived, undated): "household garbage ... can increase by 25 percent between Thanksgiving and New Year's Day, from 4 million tons to 5 million tons." https://archive.epa.gov/students/web/html/holiday.html (all household garbage, not just food; also cited by ReFED and NRDC)
+
+2. **What StashSmart helps you do** (Pantry expiry alerts, price headline)
+   - Angle: Veggies are the thing getting pricier this year. The bagged spinach you forgot about costs more than it used to; the 48-hour heads-up gets it into dinner first. Different stat from the Nov 16 lettuce post.
+   - Headline: "Fresh vegetables are on track to cost 6.5% more this year."
+   - Source: USDA ERS, Food Price Outlook, Summary Findings (updated Nov 24, 2026): fresh vegetable prices forecast to increase 6.5% in 2026. https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings
+
+3. **Attention-grabbing hook** (good news + one-word answer, baking season)
+   - Angle: Some good news for once: eggs are way cheaper than last year. Ask what they're baking first this season. Light and positive.
+   - Headline: "Egg prices are forecast to fall 29.5% this year. What are you baking first?"
+   - Source: USDA ERS, Food Price Outlook, Summary Findings (updated Nov 24, 2026): egg prices forecast to decrease 29.5% in 2026. https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings
+
+4. **What StashSmart helps you do** (Pantry expiry alerts, price headline)
+   - Angle: Beef costs a lot more this year, and raw ground beef only gives you a day or two in the fridge. Get the heads-up, cook it or freeze it.
+   - Headline: "Beef is up 9% this year. Ground beef gives you 1 to 2 days."
+   - Source: USDA ERS, Food Price Outlook (Nov 24, 2026): beef and veal forecast +9.0% in 2026. https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings and FoodSafety.gov Cold Food Storage Chart (raw ground meats: fridge 1 to 2 days, freezer 3 to 4 months). https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts
+
+5. **Food-waste fact** (post Sat Nov 28 or Sun Nov 29)
+   - Angle: Turn the turkey carcass and last bits into soup, then freeze half for a busy December night. Habit attached, "save this" CTA.
+   - Headline: "Leftover turkey soup keeps 3 to 4 days in the fridge, 2 to 3 months frozen."
+   - Source: FoodSafety.gov, Cold Food Storage Chart, soups and stews with vegetables or meat: 3 to 4 days refrigerator, 2 to 3 months freezer. https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts (confirm the soup row on the live page before posting; the fetch was partial)
+
+6. **Attention-grabbing hook** (poll, post Mon Nov 30 for Cyber Monday)
+   - Angle: Almost everyone has a money-saving move this season. Store brand, coupons, waiting for the sale, or buying less. One-word answer.
+   - Headline: "74% of shoppers plan to cut costs this holiday season. What's your move?"
+   - Source: Circana, 2026 U.S. Holiday Purchase Intentions Study (3,534 U.S. consumers), via Supermarket News, Oct 12, 2026: 74% expect to adopt money-saving measures. https://www.supermarketnews.com/grocery-trends-data/u-s-holiday-spending-expected-to-dip-as-shoppers-focus-on-value (holiday spending overall, not only groceries)
+
+7. **Food-waste fact** (positive, "you're already doing it")
+   - Angle: Tighter budgets are making people waste less. Households spending less on groceries were the most likely to say they're wasting less. Habit: shop the fridge first. Different number from the Nov 21 56% post.
+   - Headline: "Households spending less on groceries were 40% more likely to waste less."
+   - Source: ReFED and YouGov, American Households in 2026 (1,000 U.S. households, self-reported), via The Packer, Jul 16, 2026. https://www.thepacker.com/news/sustainability/rising-food-prices-drive-americans-waste-less and https://refed.org/uploads/2026-refed-yougov-survey-report-final.pdf (check the wording in the PDF: compared with households whose spending didn't change)
+
+8. **What StashSmart helps you do** (Meals, post Sun Nov 29 or Mon Nov 30)
+   - Angle: The leftovers are gone by Monday and nobody has a plan. Save three recipes to this week's dates now so "What's for dinner?" is already answered.
+   - Headline: "The leftovers are gone. Pick this week's three dinners now."
+   - Source: none
+
+9. **Attention-grabbing hook** (myth or fact, Fri Dec 4 or Sat Dec 5 PM)
+   - Angle: "Myth or fact: you can freeze eggs in the shell." Myth. Crack them, beat yolks and whites together, then freeze. Handy with eggs cheaper and baking season starting.
+   - Headline: "Myth or fact: you can toss a carton of eggs in the freezer."
+   - Source: FoodSafety.gov, Cold Food Storage Chart (eggs, raw in shell: "Do not freeze in shell. Beat yolks and whites together, then freeze"; fridge 3 to 5 weeks). https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts
+
+10. **Attention-grabbing hook** (tag a friend, baking season)
+    - Angle: Every family has the person who buys a new bag of flour or bottle of vanilla for every cookie batch. Tag them. Caption can note sugar and sweets are up 6.5% this year and nod to "Do I have this?" without a hard sell.
+    - Headline: "Tag the person who buys new vanilla every time they bake."
+    - Source (caption stat): USDA ERS, Food Price Outlook (Nov 24, 2026): sugar and sweets forecast +6.5% in 2026. https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings
+
 ## 2026-11-20
 
 Ideas for Nov 21 to 27, plus a couple that run into early December. Thanksgiving is Thu Nov 26, Black Friday Nov 27, Small Business Saturday Nov 28, Cyber Monday Nov 30, Giving Tuesday Dec 1, and Hanukkah starts the evening of Fri Dec 4. Per INSIGHTS.md: save the myth-vs-fact and one-word-answer hooks for Fri/Sat PM, keep app posts to one concrete annoying moment, vary the CTA. Already posted and off-limits: everything in posts/ through Nov 20 (FDA date labels, EPA freezer/0°F, FoodSafety.gov leftovers 3 to 4 days, AFBF $58.63, ReFED 950,000 tons, FMI 72% and 17%). News this week: October food-at-home CPI +0.4%, steak up almost 2%, coffee down about 3.5% (Grocery Dive, Nov 12); Circana says shoppers bought fewer units in October, turkey pounds down 15.1% (Supermarket News, Nov 18).
