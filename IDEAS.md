@@ -18,7 +18,7 @@ Ideas for Nov 28 to Dec 4, the stretch between Thanksgiving and early December. 
 
 3. **Attention-grabbing hook** (good news + one-word answer, baking season)
    - Angle: Some good news for once: eggs are way cheaper than last year. Ask what they're baking first this season. Light and positive.
-   - Headline: "Egg prices are forecast to fall 29.5% this year. What are you baking first?"
+   - Headline: "Eggs are forecast to cost 29.5% less this year. What are you baking?"
    - Source: USDA ERS, Food Price Outlook, Summary Findings (updated Nov 24, 2026): egg prices forecast to decrease 29.5% in 2026. https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings
 
 4. **What StashSmart helps you do** (Pantry expiry alerts, price headline)
@@ -28,7 +28,7 @@ Ideas for Nov 28 to Dec 4, the stretch between Thanksgiving and early December. 
 
 5. **Food-waste fact** (post Sat Nov 28 or Sun Nov 29)
    - Angle: Turn the turkey carcass and last bits into soup, then freeze half for a busy December night. Habit attached, "save this" CTA.
-   - Headline: "Leftover turkey soup keeps 3 to 4 days in the fridge, 2 to 3 months frozen."
+   - Headline: "Turkey soup: 3 to 4 days in the fridge, 2 to 3 months frozen."
    - Source: FoodSafety.gov, Cold Food Storage Chart, soups and stews with vegetables or meat: 3 to 4 days refrigerator, 2 to 3 months freezer. https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts (confirm the soup row on the live page before posting; the fetch was partial)
 
 6. **Attention-grabbing hook** (poll, post Mon Nov 30 for Cyber Monday)
