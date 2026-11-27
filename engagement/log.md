@@ -16,3 +16,4 @@
 - 2026-11-24: budgetbytes, 5dollardinners, morgantaylerathome, kidseatincolor, weelicious, damndelicious
 - 2026-11-25: lalalunchbox, lunchboxdad, plantbasedonabudget, victoriasmealprep, singlemombudgeting, alicetayloreats
 - 2026-11-26: couponangel29, budgetbytes, 5dollardinners, morgantaylerathome, kidseatincolor, weelicious
+- 2026-11-27: damndelicious, lalalunchbox, lunchboxdad, plantbasedonabudget, victoriasmealprep, singlemombudgeting
