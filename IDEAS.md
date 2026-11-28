@@ -15,11 +15,13 @@ Ideas for Nov 28 to Dec 4, the stretch between Thanksgiving and early December. 
    - Angle: Veggies are the thing getting pricier this year. The bagged spinach you forgot about costs more than it used to; the 48-hour heads-up gets it into dinner first. Different stat from the Nov 16 lettuce post.
    - Headline: "Fresh vegetables are on track to cost 6.5% more this year."
    - Source: USDA ERS, Food Price Outlook, Summary Findings (updated Nov 24, 2026): fresh vegetable prices forecast to increase 6.5% in 2026. https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings
+   - Used: 2026-11-28 (AM, spinach angle; ERS page confirmed 6.5%)
 
 3. **Attention-grabbing hook** (good news + one-word answer, baking season)
    - Angle: Some good news for once: eggs are way cheaper than last year. Ask what they're baking first this season. Light and positive.
    - Headline: "Eggs are forecast to cost 29.5% less this year. What are you baking?"
    - Source: USDA ERS, Food Price Outlook, Summary Findings (updated Nov 24, 2026): egg prices forecast to decrease 29.5% in 2026. https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings
+   - Used: 2026-11-28 (PM; ERS page confirmed -29.5%)
 
 4. **What StashSmart helps you do** (Pantry expiry alerts, price headline)
    - Angle: Beef costs a lot more this year, and raw ground beef only gives you a day or two in the fridge. Get the heads-up, cook it or freeze it.
@@ -29,7 +31,7 @@ Ideas for Nov 28 to Dec 4, the stretch between Thanksgiving and early December. 
 5. **Food-waste fact** (post Sat Nov 28 or Sun Nov 29)
    - Angle: Turn the turkey carcass and last bits into soup, then freeze half for a busy December night. Habit attached, "save this" CTA.
    - Headline: "Turkey soup: 3 to 4 days in the fridge, 2 to 3 months frozen."
-   - Source: FoodSafety.gov, Cold Food Storage Chart, soups and stews with vegetables or meat: 3 to 4 days refrigerator, 2 to 3 months freezer. https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts (confirm the soup row on the live page before posting; the fetch was partial)
+   - Source: FoodSafety.gov, Cold Food Storage Chart, soups and stews with vegetables or meat: 3 to 4 days refrigerator, 2 to 3 months freezer. https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts (confirm the soup row on the live page before posting; the fetch was partial; 2026-11-28 still couldn't read the page, skipped)
 
 6. **Attention-grabbing hook** (poll, post Mon Nov 30 for Cyber Monday)
    - Angle: Almost everyone has a money-saving move this season. Store brand, coupons, waiting for the sale, or buying less. One-word answer.
