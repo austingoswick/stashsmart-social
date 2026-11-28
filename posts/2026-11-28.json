@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "status": "drafted",
+  "status": "approved",
   "posts": [
     {
       "slot": "am",
@@ -17,7 +17,8 @@
       },
       "caption": "Bagged spinach. You buy it with the best intentions, and four days later it's a dark green puddle at the bottom of the crisper drawer. Every fridge has one.\n\nIt stings a bit more this year. The USDA's latest Food Price Outlook says fresh vegetables are on track to cost 6.5% more in 2026. 💰\n\nThat's why we're building Pantry alerts into StashSmart. You get a heads-up 48 hours before something goes bad, which is usually just enough time to toss it into eggs or a pasta.\n\nComing soon on iPhone. Which vegetable always gets away from you?\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
       "source_note": "USDA Economic Research Service, Food Price Outlook, Summary Findings (updated 11/24/2026): \"Prices for fresh vegetables are forecast to increase 6.5 percent in 2026\" (interval 5.9 to 7.1 percent). https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings. IDEAS.md 2026-11-27 #2.",
-      "status": "drafted"
+      "status": "approved",
+      "approved_by": "auto-approval granted by Austin 2026-11-24"
     },
     {
       "slot": "pm",
@@ -34,7 +35,9 @@
       },
       "caption": "Finally, a grocery price going the right way. The USDA expects egg prices to come in 29.5% lower this year than last.\n\nWhich, honestly, feels like a sign to start the holiday baking.\n\nSo what's first at your house? Cookies, pie, banana bread, the cinnamon rolls someone asks for every December. One word is plenty. 🙌\n\nQuick tip before you head to the store: check the cabinet for flour and vanilla first. That half-used bag in the back still counts.\n\n#smartshopping #groceryshopping #familymeals #stashsmart #mobilepantry",
       "source_note": "USDA Economic Research Service, Food Price Outlook, Summary Findings (updated 11/24/2026): \"Egg prices are forecast to decrease 29.5 percent in 2026\" (interval -30.8 to -28.0 percent). https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings. IDEAS.md 2026-11-27 #3.",
-      "status": "drafted"
+      "status": "approved",
+      "approved_by": "auto-approval granted by Austin 2026-11-24"
     }
-  ]
+  ],
+  "approved_by": "auto-approval granted by Austin 2026-11-24"
 }
